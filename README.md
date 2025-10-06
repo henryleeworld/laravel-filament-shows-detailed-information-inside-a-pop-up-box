@@ -1,4 +1,4 @@
-# Laravel 11 Filament 彈出提示框顯示詳細資料
+# Laravel 12 Filament 彈出提示框顯示詳細資料
 
 Filament 彈出提示框顯示詳細資料採用快速建立簡捷的 TALL（Tailwind CSS、Alpine.js、Laravel 和 Livewire）堆疊應用程式的工具組，可插入豐富、有結構的詳細資料到彈出提示框中，但建議避免增加過多的內容。
 
@@ -39,5 +39,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/lz3rCeo.gif)
+![](https://i.imgur.com/nSE0jDr.gif)
 > 將游標懸停在該使用者的姓名上，彈出提示框會顯示該使用者的頭像

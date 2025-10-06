@@ -37,19 +37,27 @@ return [
         'theme_switcher' => [
 
             'dark' => [
-                'label' => 'Bật chế độ tối',
+                'label' => 'Bật giao diện tối',
             ],
 
             'light' => [
-                'label' => 'Bật chế độ sáng',
+                'label' => 'Bật giao diện sáng',
             ],
 
             'system' => [
-                'label' => 'Bật chế độ hệ thống',
+                'label' => 'Bật giao diện theo hệ thống',
             ],
 
         ],
 
+    ],
+
+    'avatar' => [
+        'alt' => 'Ảnh đại diện của :name',
+    ],
+
+    'logo' => [
+        'alt' => 'Logo :name',
     ],
 
 ];
